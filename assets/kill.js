@@ -17,8 +17,8 @@ $(function() {
         animIndex++
     }
     window.setInterval(doInverseSpinZeroPitch, 250);
-    var tKillNames = ["Young ~"];
-    var ctKillNames = ["MANDY", "TIMKA", "ZEFIRKA", "VOLODYA"];
+    var tKillNames = ["Young ☝ "];
+    var ctKillNames = ["Old Young", "МашкинТерк", "LuckyGay", "aYrA"];
     var weapons = ["ssg", "ak47", "deagle", "g3sg1"];
     var $killFeedContainer = $('.kill-feed');
     var $killFeedElement = $('.kill-feed > div').hide();
